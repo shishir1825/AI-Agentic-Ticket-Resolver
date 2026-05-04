@@ -1,0 +1,29 @@
+{
+  "summary": {
+    "passed": 12,
+    "failed": 0,
+    "consoleErrors": 0
+  },
+  "passed": [
+    "Sidebar present",
+    "CRI Workflow logo",
+    "Role switcher dropdown",
+    "Navigation links",
+    "Hero card 'CRI Workflow Engine'",
+    "Metric cards",
+    "How It Works pipeline",
+    "Upload drag-and-drop zone",
+    "Upload page title",
+    "JIRA Board tabs",
+    "JIRA Board title",
+    "Home navigation works"
+  ],
+  "failed": [],
+  "consoleErrors": [],
+  "screenshots": [
+    "01-home.png",
+    "02-upload.png",
+    "03-jira-board.png",
+    "04-home-again.png"
+  ]
+}

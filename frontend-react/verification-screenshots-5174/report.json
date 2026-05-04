@@ -1,0 +1,44 @@
+{
+  "summary": {
+    "passed": 22,
+    "failed": 0,
+    "consoleErrors": 0
+  },
+  "passed": [
+    "Title is SnapResolve",
+    "No 'CRI Workflow Engine'",
+    "Chargebee logo in sidebar",
+    "Role switcher dropdown",
+    "Role avatar (circular)",
+    "Section: Workflow",
+    "Section: Insights",
+    "Dashboard link",
+    "Code Fix link",
+    "EM Sign-off link",
+    "Engineering avatar visible",
+    "Engineer: Code Fix in sidebar",
+    "Engineer: Engineer Review in sidebar",
+    "Engineer: EM Sign-off in sidebar",
+    "Code Fix page loads",
+    "Code Fix shows list or empty state",
+    "Engineer Review page loads",
+    "Engineer Review has stats strip or inbox",
+    "EM Sign-off page loads",
+    "EM Sign-off shows content",
+    "Hamburger menu visible on mobile",
+    "Sidebar collapsed on mobile"
+  ],
+  "failed": [],
+  "consoleErrors": [],
+  "screenshots": [
+    "01-home.png",
+    "01b-home-card-hover.png",
+    "02-engineering-role.png",
+    "03-code-fix.png",
+    "03b-code-fix-detail.png",
+    "04-engineer-review.png",
+    "05-em-signoff.png",
+    "06-mobile.png",
+    "06b-mobile-sidebar-open.png"
+  ]
+}
